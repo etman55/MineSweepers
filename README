@@ -4,7 +4,9 @@ To do such a robot you will need basic items such as:
 
 4 DC motors for moving the robot 
 
-1Arduino Mega
+Motor Drivers relays will be fine  
+
+1 Arduino Mega
 
 1 metal detector sensor
 
