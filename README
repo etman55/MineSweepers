@@ -1,0 +1,25 @@
+#MineSweepers Robot.
+
+To do such a robot you will need basic items such as:
+
+4 DC motors for moving the robot 
+
+1Arduino Mega
+
+1 metal detector sensor
+
+1 Ultra sonic sensor 
+
+1 digital Compass "HMC5883L"
+
+1 rotary encoder 
+
+1 additional wheel for the rotary encoder to be installed with it
+
+1 Bluetooth module "HC-05"
+
+then you need to install these items all together.
+
+
+NOTE: you need to put all these files in one directory 
+the main file in "minesweepers.ino"
